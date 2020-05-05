@@ -21,13 +21,13 @@ scalar types
    8
    >>> 0x10
    16
-   >>> int(3.5)     -> gives floor value
+   >>> int(3.5)     // gives floor value
    3
    >>> int(-3.5)
    -3
    >>> int("496")
    496
-   >>> int("10000",3)   -> converts base 3, value 10000 to decimal.
+   >>> int("10000",3)   // converts base 3, value 10000 to decimal.
    81
     ````
    
